@@ -1,5 +1,4 @@
-<h1 align="center">I'm Ranjit Singh</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h1 align="center">Ranjit Singh</h1>
 
 I am results-oriented Full Stack Software Engineer with 12+ years of experience building end-to-end cloud-native applications, from responsive frontends to scalable microservices backends, RESTful APIs, and distributed systems.
 
